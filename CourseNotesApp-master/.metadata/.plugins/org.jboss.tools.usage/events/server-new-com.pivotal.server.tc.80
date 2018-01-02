@@ -1,0 +1,11 @@
+#Wed Jan 03 00:18:09 EET 2018
+vl=0 \= failed, 1 \= successful
+l=Server Runtime ID
+ct=server
+d=1514927889352
+c=1
+cmp=server
+a=new
+cl=com.pivotal.server.tc.80
+v=3.2.4
+s=0
